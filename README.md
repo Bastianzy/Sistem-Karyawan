@@ -36,10 +36,3 @@ Sistem ini dirancang menggunakan hierarki kelas berikut:
    ```bash
    dotnet run
    ```
-
----
-
-## 👤 Identitas Pengguna
-- **Nama:** [Nama Anda]
-- **NIM:** [NIM Anda]
-- **Kelas:** C
